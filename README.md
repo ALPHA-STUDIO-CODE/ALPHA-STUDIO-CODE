@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-I'm a full-stack developer who is deeply interested in modern web development and blockchain technology. Right now, I'm focused on learning the fundamentals of what I'm interested in, from HTML foundations to beautiful React frontends to secure Solidity smart contracts. Follow my progress on GitHub, where all code will be made public.
+I'm a full-stack developer who is deeply interested in modern web development and blockchain technology. Right now, I'm focused on learning the fundamentals of what I'm interested in, from HTML foundations to beautiful React frontend to secure Solidity smart contracts. Follow my progress on GitHub, where all code will be made public.
 
 - 🌱 **Learning in public**: Currently in the frontend (live updates on X and my repo)
 - 💡 **Open to**: Collabs, feedback, and open-source contributions
@@ -30,6 +30,7 @@ I'm a full-stack developer who is deeply interested in modern web development an
 **Frontend**  
 ![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
 ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+![Bootstrap](https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000)
 _loading..._
 
 **Backend**  
