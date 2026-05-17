@@ -31,6 +31,8 @@ I'm a full-stack developer who is deeply interested in modern web development an
 ![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
 ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
 ![Bootstrap](https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000)
+![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+![jQuery](https://img.icons8.com/?size=100&id=HKNzD81eiiSc&format=png&color=000000)
 _loading..._
 
 **Backend**  
